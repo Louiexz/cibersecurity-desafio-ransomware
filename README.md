@@ -19,18 +19,20 @@ Github + Git
 - Edite o teste.txt (Opcional)
 - Edite a key nos arquivos encrypter.py e decrypter.py
 - Execute o encrypter.py
+- Visualize o arquivo criptografado
 - Execute o decrypter.py
+- Visualize o arquivo descriptografado
 
 ### Estrutura de arquivos
 
-__init__.py
-|
-decrypter.py    # Criptografa o arquivo
-|
-encrypter.py    # Descriptografa o arquivo
-|
-teste.txt       # Arquivo que será cripto/descriptografado
-|
-requeriments.txt    # Dependências necessárias
-|
-README.md
+    __init__.py
+    |
+    decrypter.py    # Criptografa o arquivo
+    |
+    encrypter.py    # Descriptografa o arquivo
+    |
+    teste.txt       # Arquivo que será cripto/descriptografado
+    |
+    requeriments.txt    # Dependências necessárias
+    |
+    README.md
