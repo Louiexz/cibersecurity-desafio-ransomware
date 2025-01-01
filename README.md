@@ -8,10 +8,10 @@ Ransomware é um tipo de malware (software malicioso) projetado para sequestrar 
 
 ### Ferramentas
 
-Python
-Pyaes
-VSCode
-Github + Git
+    Python
+    Pyaes
+    VSCode
+    Github + Git
 
 ### Como usar
 
